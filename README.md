@@ -1,0 +1,2 @@
+# Qualification-work
+WAREHOUSE INVENTORY ACCOUNTING PROGRAM FOR A COSMETIC STORE - Qualification-work
